@@ -1,7 +1,7 @@
 # Smart Campus Recruitment Portal
 
-🎓 A final year minor project designed to **digitize and streamline campus placements**.  
-Built with **React (frontend)** and **Java Spring Boot (backend)** for speed, security, and scalability.
+🎓 A final-year minor project focused on digitizing and streamlining the campus placement process.
+Developed using React for the frontend and Java Spring Boot for the backend, ensuring high performance, robust security, and scalable architecture.
 
 ---
 
@@ -39,4 +39,5 @@ Built with **React (frontend)** and **Java Spring Boot (backend)** for speed, se
 ---
 
 📌 *Final Year Project — Smart Campus Recruitment Portal*
+
 
